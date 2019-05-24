@@ -6,7 +6,7 @@ Esta es la primera version de una aplicación, en la cual se busca crear un ambi
 [![Preview](https://raw.githubusercontent.com/VivianGomez/VRLL/master/Assets/Recursos/entrega.png)](https://youtu.be/aOLzBmfVzqg)
 Para ver un demo con sonido dar click en la imágen.
 
-https://raw.githubusercontent.com/VivianGomez/VRLL/master/Assets/Recursos/DemoFruits.gif
+[Preview](https://raw.githubusercontent.com/VivianGomez/VRLL/master/Assets/Recursos/DemoFruits.gif)
 
 O también puedes [Ver un video explicativo de la idea + demo completo](https://www.youtube.com/watch?v=t-jFNrlYf1M&t=133s)
 

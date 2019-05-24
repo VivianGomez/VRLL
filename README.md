@@ -21,4 +21,5 @@ Esta es la primera version de una aplicación, en la cual se busca crear un ambi
 - Unity
 - Android Unity SDK
 - Watson Developer Cloud - Unity SDK: https://github.com/watson-developer-cloud/unity-sdk
+- GVR Unity SDK: https://github.com/googlevr/gvr-unity-sdk/releases
 

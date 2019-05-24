@@ -7,7 +7,7 @@ Esta es la primera version de una aplicación, en la cual se busca crear un ambi
 
 Para ver un demo dar click en la imágen.
 
-Si desdeas ver un video explicativo de la idea + demo completo: [Video](https://www.youtube.com/watch?v=t-jFNrlYf1M&t=133s)
+O también puedes [Ver un video explicativo de la idea + demo completo](https://www.youtube.com/watch?v=t-jFNrlYf1M&t=133s)
 
 ## Descripción
 

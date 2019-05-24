@@ -5,7 +5,8 @@ Esta es la primera version de una aplicación, en la cual se busca crear un ambi
 
 [![Preview](https://raw.githubusercontent.com/VivianGomez/VRLL/master/Assets/1.PNG)](https://youtu.be/aOLzBmfVzqg)
 
-![Preview](https://raw.githubusercontent.com/VivianGomez/VRLL/master/Assets/2.PNG)
+[![Preview](https://raw.githubusercontent.com/VivianGomez/VRLL/master/Assets/2.PNG)](https://youtu.be/aOLzBmfVzqg)
+
 
 ## Descripción
 

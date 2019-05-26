@@ -14,8 +14,8 @@ O también puedes [Ver un video explicativo de la idea + demo completo](https://
 
 ## Tecnologías usadas
 
-- Unity: Motor de juegos multiplataforma, usado para desarrollar videojuegos para PC, consols, dispositivos móviles y sitios web.  
-- Google Cardboard: Un dispositivo que, junto a un teléfono Androud, permite visualizar aplicaciones VR (de realidad virtual) 
+- Unity: Motor de juegos multiplataforma, usado para desarrollar videojuegos para PC, consolas, dispositivos móviles y sitios web.  
+- Google Cardboard: Un dispositivo que, junto a un teléfono Android, permite visualizar aplicaciones VR (de realidad virtual) 
 - IBM Watson Assistant: Permite crear un chatbot con un programa que conduce una conversación mediante métodos auditivos o de texto.
   En este caso particular se usa para configurar el espacio de trabajo, definir el modelo y el diccionario de palabras aceptadas para el    Speech-to-Text.
 - IBM Watson Speech-to-Text: Un servicio de IBM que permite convertir voz a texto.

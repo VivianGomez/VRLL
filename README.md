@@ -19,7 +19,8 @@ O también puedes [Ver un video explicativo de la idea + demo completo](https://
 - Google Cardboard: Un dispositivo que, junto a un teléfono Android, permite visualizar aplicaciones VR (de realidad virtual) 
 - IBM Watson Assistant: Permite crear un chatbot con un programa que conduce una conversación mediante métodos auditivos o de texto.
   En este caso particular se usa para configurar el espacio de trabajo, definir el modelo y el diccionario de palabras aceptadas para el    Speech-to-Text.
-- IBM Watson Speech-to-Text: Un servicio de IBM que permite convertir voz a texto.
+- IBM Watson Speech-to-Text: Un servicio de IBM que permite convertir voz a texto. 
+- Se hace uso del código base: https://github.com/IBM/vr-speech-sandbox-cardboard, modificado con fines académicos para lograr el prototipo aquí propuesto.
 
 
 
@@ -30,4 +31,6 @@ O también puedes [Ver un video explicativo de la idea + demo completo](https://
 - Android Unity SDK
 - Watson Developer Cloud - Unity SDK: https://github.com/watson-developer-cloud/unity-sdk
 - GVR Unity SDK: https://github.com/googlevr/gvr-unity-sdk/releases
+
+El presente código hace uso de la licencia AGPLv3, más información en el archivo [LICENSE](https://github.com/VivianGomez/VRLL/blob/master/LICENSE)
 

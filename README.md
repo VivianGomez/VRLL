@@ -23,7 +23,7 @@ O también puedes [Ver un video explicativo de la idea + demo completo](https://
 - IBM Watson Assistant: Permite crear un chatbot con un programa que conduce una conversación mediante métodos auditivos o de texto.
   En este caso particular se usa para configurar el espacio de trabajo, definir el modelo y el diccionario de palabras aceptadas para el    Speech-to-Text.
 - IBM Watson Speech-to-Text: Un servicio de IBM que permite convertir voz a texto. 
-- Se hace uso del código base: https://github.com/IBM/vr-speech-sandbox-cardboard, modificado con fines académicos para lograr el prototipo aquí propuesto.
+- Se hace uso del código base: https://github.com/IBM/vr-speech-sandbox-cardboard, modificado con fines académicos para lograr el prototipo aquí propuesto. En este repo explican el paso a paso para la confugiración con el servicio IBM Watson Speech-to-Text, el único cambio es poner las palabras de las frutas en inglés y las palabras que "suenan" parecido en cada caso. 
 
 
 
